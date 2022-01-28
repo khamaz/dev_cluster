@@ -3,4 +3,4 @@ kind: Kustomization
 bases:
 - https://github.com/khamaz/baseline-gitops.git//apps
 
-namespace: default
+# namespace: default
